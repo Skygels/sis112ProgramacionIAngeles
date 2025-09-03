@@ -9,10 +9,10 @@ Cada estudiante debe clonar o hacer fork de este repositorio y trabajar en su pr
 
 Completar con tus datos:
 
-- **Nombre:**  
-- **Carrera:**  
-- **Correo institucional:**  
-- **Grupo:**  
+- **Nombre: Angeles Muraña**  
+- **Carrera: Ing. Sistemas**  
+- **Correo institucional: angeles.murana@ucb.edu.bo**  
+- **Grupo: 1S**  
 
 ---
 
