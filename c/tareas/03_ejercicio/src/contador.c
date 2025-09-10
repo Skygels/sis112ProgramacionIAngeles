@@ -1,8 +1,13 @@
 #include <stdio.h>
 
-int main(void) {
-    for(int a = 0; a < 10; a++) {
-        printf("%d ", a);
+int main(void){
+    int numeros=0;
+    while(1){
+        numeros++;
+        printf("%d\n",numeros);
+        if(numeros==100){
+            break;
+        }
     }
     return 0;
 }
