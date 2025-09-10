@@ -1,8 +1,12 @@
 #include <stdio.h>
 
 int main(void) {
-    for(int a = 0; a < 10; a++) {
-        printf("%d ", a);
+    int n; 
+    printf("ingrese un numero por favor:");
+    scanf("%d", &n);
+    for(int i = 1; i <= n; i++){
+        printf("%d\n", i);
     }
+
     return 0;
 }
